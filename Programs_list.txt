@@ -1,1 +1,2 @@
 1.keypad pattern
+2.number patterns
